@@ -31,7 +31,7 @@
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mailgun-js": "^0.22.0",
     "mailgun.js": "^2.0.1",
     "moleculer": "^0.14.0",
